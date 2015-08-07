@@ -26,7 +26,7 @@ using CapsLock.Properties;
 using System;
 using System.Windows.Forms;
 
-namespace CapsLock 
+namespace CapsTray
 {
 
     /// <summary>
